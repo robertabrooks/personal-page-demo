@@ -54,8 +54,12 @@ footer {
 
 #about img {
 	max-height: 400px;
-	float: left;
+	float: right;
 	margin-right: 1em;
+}
+
+#about img:hover {
+	opacity: 0.7;
 }
 
 #education {
